@@ -1,10 +1,8 @@
 {
-
-
   // Code>Location>Map Patches
-  "BusStop": "Bus Stop",
-  "PelicanTown": "Pelican Town",
-  "Farm": "Farm",
+  "BusStop": "Arrêt de bus",
+  "PelicanTown": "Pélican Ville",
+  "Farm": "Ferme",
 
     //Fish Display Names
     "Minnow": "Minnow", 
