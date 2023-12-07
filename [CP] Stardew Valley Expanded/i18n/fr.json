@@ -35,15 +35,15 @@
     "RazorTrout": "Poisson-rasoir",
 
   //Juliet and Jessie Compat
-  "JojaDay.Juliet.1": "Welcome to JojaMart, where our prices match our service. Budget all the way!$0",
+  "JojaDay.Juliet.1": "Bienvenue à JojaMart, où nos prix correspondent à notre service. Promos jusqu'au bout du chemin!$0",
   //Weapons.Json
-  "GalaxySlingshot": "Iridium ore fired from this slingshot are given cosmic energy",
+  "GalaxySlingshot": "Le minerai d'iridium tiré de cette fronde reçoit de l'énergie cosmique",
 
   //MapPatches.json
-  "MovieTheater.Gunther": "%It smells like buttered popcorn!",
-  "MovieTheater.Marlon.01": "%Gil is sleeping.",
-  "MovieTheater.Marlon.02": "%Gil is taking it easy.",
-  "MovieTheater.Morris": "%There's free Joja Cola.",
+  "MovieTheater.Gunther": "%Ça sent le pop-corn beurré!",
+  "MovieTheater.Marlon.01": "%Gil est en train de dormir.",
+  "MovieTheater.Marlon.02": "%Gil y va doucement.",
+  "MovieTheater.Morris": "%Il y a du Joja Cola gratuit.",
   //NPC Dispositions (found in NPC files)
   "Name.Jadu": "Jadu",
   "Name.Sawyer": "Sawyer",
