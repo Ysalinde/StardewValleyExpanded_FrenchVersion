@@ -4327,18 +4327,18 @@
   //************************
   // ALESIA NPC 
   //************************
-  "Alesia.CharacterDialogue.001": "We're all responsible for writing reports for the Guild periodically.$0#$b#Paperwork isn't the most glamorous part of adventuring, but it does give us an advantage.$1",
-  "Alesia.CharacterDialogue.002": "Glad to see you, @. Keeping your blades sharp?$1#$e#May Yoba guide you.$0",
-  "Alesia.CharacterDialogue.003": "Isaac's in a mood today. It's nice to see a friendly face instead.$2",
-  "Alesia.CharacterDialogue.004": "See anything interesting during your travels lately?$0",
-  "Alesia.CharacterDialogue.005": "Nothing out of the ordinary to report today...  so far.$1",
+  "Alesia.CharacterDialogue.001": "Nous devons tous rédiger périodiquement des rapports pour la Guilde.$0#$b#L'administratif n'est pas la partie la plus intéressante d'une aventure, mais ça nous donne un avantage.$1",
+  "Alesia.CharacterDialogue.002": "Je suis contente de te voir, @. Tu gardes ta lame affûtée ?$1#$e#Que Yoba te guide.$0",
+  "Alesia.CharacterDialogue.003": "Isaac est grognon aujourd'hui. C'est chouette de voir quelqu'un d'amical à la place.$2",
+  "Alesia.CharacterDialogue.004": "Tu as vu des choses intéressantes dans tes voyages récemment ?$0",
+  "Alesia.CharacterDialogue.005": "Rien d'extraordinaire à rapporter aujourd'hui... Pour l'instant.$1",
   //Alesia Festival Dialogue:
-  "Alesia.Fair": "Hello, adventurer. We're inspecting your blacksmith's weapons.#$e#May Yoba guide you.$1",
-  "Alesia.Spirit": "Hello, adventurer. With a joint effort, we captured these monsters.$0#$e#May Yoba guide you.$1",
+  "Alesia.Fair": "Hello, adventurer. We're inspecting your blacksmith's weapons.#$e#Que Yoba te guide.$1",
+  "Alesia.Spirit": "Hello, adventurer. With a joint effort, we captured these monsters.$0#$e#Que Yoba te guide.$1",
   //Alesia Adventurer Guild Dialogue
   "Alesia.Guild.01": "See anything interesting during your travels lately?$1",
-  "Alesia.Guild.02": "Hello, @. You're always ready for anything.$1#$e#May Yoba guide you.$0",
-  "Alesia.Guild.03": "I'm happy to see you're well and safe, @.$1#$e#May Yoba guide you.$0",
+  "Alesia.Guild.02": "Hello, @. You're always ready for anything.$1#$e#Que Yoba te guide.$0",
+  "Alesia.Guild.03": "I'm happy to see you're well and safe, @.$1#$e#Que Yoba te guide.$0",
   "Alesia.Guild.04": "Are you stocked up on haste elixirs, @?$0",
   "Alesia.Guild.05": "It's refreshing to visit the valley again.$1",
   "Alesia.Guild.06": "Don't hesitate to ask if you require my bow.$0",
