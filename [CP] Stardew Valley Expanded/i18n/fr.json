@@ -4297,10 +4297,10 @@
   //************************
   // CAMILLA NPC 
   //************************
-  "Camilla.CharacterDialogue.001": "Surprised to see me?$5#$e#Razzy and I have important matters to discuss today.$0",
-  "Camilla.CharacterDialogue.002": "Hello, dear. Have you come to aid Castle Village?$0#$e#There's more monsters than usual loitering around today...$2",
-  "Camilla.CharacterDialogue.003": "Beautiful view from here, right? Sand, sand, and more sand.$0#$e#Is it wrong that I think some of the monsters we fight are kind of cute? ...Not enough to take home, or anything.$1",
-  "Camilla.CharacterDialogue.004": "We've figured out lots of handy tricks around here to deal with our little monster problem.$0#$e#See that green fire? It's a magical deterrent that *strongly discourages* them from encroaching on this tower.$1#$e#With fire...$5",
+  "Camilla.CharacterDialogue.001": "Surpris de me voir ?$5#$e#Razzy et moi devons discuter de choses importantes aujourd'hui.$0",
+  "Camilla.CharacterDialogue.002": "Hello, très cher. Tu es venu apporter ton aide à Castle Village ?$0#$e#Il y a de plus en plus de monstres qui traînent dans le coin aujourd'hui...$2",
+  "Camilla.CharacterDialogue.003": "Belle vue d'ici, pas vrai ? Du sable, du sable, du sable, toujours du sable.$0#$e#Est-ce mal de penser que certains des monstres que nous combattont sont un peu mignons...? Enfin pas assez pour en ramener à la maison, ou quoi que ce soit.$1",
+  "Camilla.CharacterDialogue.004": "On a trouvé plein de ruses très pratiques pour s'occuper de notre problème de monstres.$0#$e#Tu vois ce feu vert ? C'est un dissuasif magique qui *décourage grandement* les monstres d'envahir la tour.$1#$e#Avec du feu...$5"
   // Camilla Events
   "Camilla.Kittyfish.01": "What a lovely view...$0",
   "Camilla.Kittyfish.02": "*chuckle* Behind you, @.$1",
