@@ -8082,24 +8082,6 @@
   "Mail.QiGoldenPIggyBankReward1": "Here's a gift to commemorate you earning 10,000,000g! Keep up the good work, kid. You have a bright future ahead.^^ -Mr. Qi %item bigobject ",
   "Mail.QiGoldenPIggyBankReward2": " %% [letterbg Mods/FlashShifter.StardewValleyExpandedCP/LetterBackgrounds 1][textcolor brown][#]Golden Piggy Bank",
   //Mail edits for Morris as Mayor
-<<<<<<< Updated upstream
-  "Mail.Mayor.01": "@,^I've heard you've been giving some people a hand around town! Everyone seems really thankful. I'm awarding you this month's \"Best Neighbor\" award (with a small cash prize). Keep it up! ^   -Lewis%item money 500 501 %%[#]Best Neighbor",
-  "Mail.Mayor.02": "Dear @,^you've been such a help around town since you moved here... everyone keeps telling me all the wonderful things you've done for them! Please accept this thank-you prize. ^   -Lewis%item money 2500 2501 %%[#]Thank-you From Lewis",
-  "Mail.Mayor.03": "@,^I am pleased to announce that you've been chosen as \"Neighbor of the year\"! That comes with a 10,000g prize! Congratulations! Everyone in town wants to say 'thanks' for all you've done. ^   -Lewis%item money 10000 10001 %%[#]Neighbor Of The Year",
-  "Mail.Mayor.04": "@,^I have this crazy new idea that I want to involve you in... It's called \"Clothing Therapy\".^^Please come to Lewis' manor today to see what it's all about.^^ Love, Emily[#]Emily's Idea",
-  "Mail.Mayor.05": "Dear @,^Someone dropped your tools into the lost and found bin last night.^^I came in and set them next to your bed.^Hope I didn't wake you... ^^  -Mayor Morris[#]Lost Tools",
-  "Mail.Mayor.06": "Dear @,^I would like to give you some information about an upcoming event: the Feast of the Winter Star. It's a time for the community to come together and think back on all the good fortune we've had this year.^A favorite tradition is the \"secret gift exchange\", where everyone in town is randomly assigned to someone else. On the day of the festival, everyone brings a gift for their secret friend and surprise them with something special!^This year, your secret friend is:^    %secretsanta ^Don't tell anyone! The feast will take place on the 25th from 10AM to 2PM at the town square. See you then! ^   -Lewis^   -Event Coordinater[#]Secret Gift-Giver",
-  "Mail.Mayor.07": "Dear @,^Tomorrow we're holding the Egg Festival in the town square. ^^You should arrive between 9 AM and 2 PM if you'd like to attend.^You wouldn't want to miss the annual egg hunt!^  -Lewis^  -Event Coordinator[#]Egg Festival Notice",
-  "Mail.Mayor.08": "Dear @,^Tomorrow we're all getting together for the Flower Dance.^^If you can find a partner, you might even want to participate in the dance yourself!^There's a little clearing beyond the forest west of town where we hold the dance. Arrive between 9 AM and 2 PM if you're interested.^  -Lewis^   -Event Coordinater[#]Flower Dance Notice",
-  "Mail.Mayor.09": "Dear @,^Tomorrow we're all gathering at the beach for the annual Pelican Town Luau.^^The highlight of the event is the communal potluck. Make sure you bring something good to contribute!^The governor himself is attending the event, so make sure you're on your best behavior.^Come to the beach sometime between 9 AM and 2 PM.^   -Lewis^   -Event Coordinater[#]Luau Notice",
-  "Mail.Mayor.10": "Dear @,^One week from today, we are holding the Stardew Valley Fair in the town square!^It's the biggest event of the year, drawing people from all across the country to our humble town.^If you'd like, you can set up a grange display for the event. Just bring up to 9 items that best showcase your talents. You'll be judged on the quality and diversity of your display.^The fair starts at 9 AM... don't miss it!^   -Lewis^   -Event Coordinater[#]Stardew Valley Fair Notice",
-  "Mail.Mayor.11": "Dear @,^Notice a chill in the air? It could just be the approach of winter...^Or it could be the tingle of a dark specter, here to help us celebrate tomorrow's festival... the Spirit's Eve.^Come to town at 10 PM if you'd like to participate.^  -Lewis^  -Event Coordinater[#]Spirit's Eve Notice",
-  "Mail.Mayor.12": "Dear @,^Tomorrow we're all gathering in front of Marnie's house for the Festival of Ice.^^It's a celebration of winter... there'll be snowmen, ice sculptures, and an ice fishing competition!^Arrive between 9 AM and 2 PM if you'd like to participate.^  -Lewis^  -Event Coordinater[#]Festival Of Ice Notice",
-  "Mail.Mayor.13": "@,^I need truffle oil. Don't ask me why.^ -Lewis%item quest 120 %%[#]Lewis' Request",
-  "Mail.Mayor.14": "Dear @,^Tomorrow is the Feast of the Winter Star.^Did you get a gift for your 'secret friend'... %secretsanta?^The feast starts at 9 AM in the town square. See you then! ^   -Lewis^   -Event Coordinater[#]Feast Of The Winter Star Reminder",
-  "Mail.PurchasedItem1": "Hey, so I picked up a ",
-  "Mail.PurchasedItem2": " at the store last night. Pierre said it came from %farm Farm!$1",
-=======
   "Mail.Mayor.01": "@,^J'ai entendu dire que tu donnais un coup de main à certaines personnes en ville! Tout le monde semble vraiment reconnaissant. Je te décerne le prix \"Meilleur·e Voisin·e\" de ce mois-ci (avec une petite récompense). Continue comme ça! ^   -Lewis%item money 500 501 %%[#]Best Neighbor",
   "Mail.Mayor.02": "Cher·e @,^Tu as été d'une telle aide en ville depuis que tu as déménagé ici... tout le monde ne cesse de me dire toutes les choses merveilleuses que tu as faites pour eux! S'il te plaît, accepte ce prix en remerciement. ^   -Lewis%item money 2500 2501 %%[#]Thank-you From Lewis",
   "Mail.Mayor.03": "@,^J'ai le plaisir de t'annoncer que tu as été élu \"Voisin·e de l'année\"! Cela vaut bien un prix de 10 000 g! Toutes nos félicitations! Tout le monde en ville veut dire merci pour tout ce que tu as fait. ^   -Lewis%item money 10000 10001 %%[#]Neighbor Of The Year",
@@ -8116,7 +8098,6 @@
   "Mail.Mayor.14": "Cher·e @,^Demain, c'est la fête de l'Étoile Hivernale.^As-tu un cadeau pour ton 'ami secret'... %secretsanta?^La fête commence à 9 heures sur la place de la ville. À plus tard! ^   -Lewis^   -Event Coordinater[#]Feast Of The Winter Star Reminder",
   "Mail.PurchasedItem1": "Hé, j'ai récupéré un ",
   "Mail.PurchasedItem2": " au magasin hier soir. Pierre a dit que cela venait de la ferme %farm !$1",
->>>>>>> Stashed changes
   //Strings from maps
   //Backwoods, Busstop, and Forest
   "String.01": " Farm^> Mountain> Emerald Farm",
@@ -10259,4 +10240,5 @@
   "Apples.OrderEvent5.05": "Je suis ami avec un Junimo! À partir de demain, je peux parler à Apples.",
   "Apples.OrderEvent5.06": "Mais pourquoi le vignoble n'est-il pas réparé?...",
   "Apples.OrderEvent5.07": "%Vous expliquez à Magnus ce que vous avez vu dans le vignoble Aurora.#$e#Un Junimo nommé 'Apples' a transformé le vignoble en sa maison ?#$b#Intriguant. Les Junimos réparent les bâtiments abandonnés, mais ne les aggravent pas.#$e#Informe-moi si quelque chose se passe.",
+
 }
