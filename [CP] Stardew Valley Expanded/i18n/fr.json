@@ -4353,10 +4353,10 @@
   //************************
   // ISAAC NPC 
   //************************
-  "Isaac.CharacterDialogue.001": "If you see anything out of the ordinary, tell Alesia. She's tracking monsters' movements to report to the Guild.$0",
-  "Isaac.CharacterDialogue.002": "Think we might be in for a battle tonight. I've seen some strange things on the horizon.$3",
-  "Isaac.CharacterDialogue.003": "*grumble* I can never get enough to drink on hot days like this. Feels like I'm drying up from the inside out.$2",
-  "Isaac.CharacterDialogue.004": "Staying alert, @? You never know when something could come creeping up on you around here.$0#$e#Luckily for me, I'm always two steps ahead.$5#$b#Just stay out of my way.$0",
+  "Isaac.CharacterDialogue.001": "Si tu vois quelque chose de différent de d'habitude, dis le à Alesia. Elle traque les déplacements des monstres pour les rapporter à la Guilde.$0",
+  "Isaac.CharacterDialogue.002": "Je pense qu'on s'apprête à se battre aujourd'hui. J'ai vu des choses étranges à l'horizon.$3",
+  "Isaac.CharacterDialogue.003": "*grommele* Je n'ai jamais assez à boire les jours chauds comme celui là. J'ai l'impression d'être sec de l'intérieur.$2",
+  "Isaac.CharacterDialogue.004": "Tu restes éveillé, @ ? On ne sait jamais quand quelque chose peut surgir autour de nous.$0#$e#Mais par chance, je suis toujours en avance.$5#$b#Ne reste pas sur mon chemin.$0",
   //Isaac Festival Dialogue
   "Isaac.Fair": "Hmph. These weapons aren't bad.$5#$e#Mmm?$0#$b#What do you want?$3#$e#%Isaac is now ignoring you.",
   "Isaac.Spirit": "Defeating a shadow brute is child's play.$0#$b#The narrative changes when bringing one in alive...$3#$e#Make yourself useful and bring me that 'spiced pumpkin cider'.$0",
