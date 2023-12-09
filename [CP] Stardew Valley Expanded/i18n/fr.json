@@ -5754,7 +5754,7 @@
   //OTHER ANTISOCIAL NPCS
   //************************
   //Peaches NPC
-  "Peaches.Meep": "*meep*",
+  "Peaches.Meep": "*bêê*",
   //JADU NPC
   "Jadu.CharacterDialogue.001": "You've heard of mirages? Sometimes when it gets hot enough out here, the air shimmers, and it's like you can peer into a different world.$0",
   "Jadu.CharacterDialogue.002": "*yawn* It gets pretty monotonous out here. I'm glad you stopped by to visit.$0",
@@ -5764,7 +5764,7 @@
   "Jadu.CharacterDialogue.006": "Being an adventurer makes you appreciate some strange things. Like the smell of fresh air after you spend days in a dank, musty cave.$0",
   //HIGHLAND DWARF NPC
   //HIGHLAND DWARF EVENTS
-  "Highland.FirstKey.01": "You're not one of them...#$b#Have you come to help me?",
+  "Highland.FirstKey.01": "Tu n'es pas l'un des leurs...#$b#Es-tu venu m'aider?",
   "Highland.FirstKey.02": "...You defeated that terrible monster and obtained the key to my prison?#$b#It must have been quite the fight...",
   "Highland.FirstKey.03": "I can't recall how many moon phases have passed since my capture...#$b#My home... isn't what it once was...#$b#I shall find a new one.",
   "Highland.FirstKey.04": "...Thank you.#$b#I shall find a way to repay you...",
@@ -5777,16 +5777,16 @@
   "Highland.NewHome.01": "Ah. You've returned...#$b#I decided to make this ravine my new home. It's rich in ore and has a pretty view...",
   "Highland.NewHome.02": "Do you want to buy anything?...",
   //Charlie NPC
-  "Charlie.CharacterDialogue.001": "%Charlie: *bawk*#$e#%Charlie: *bawk*?",
-  "Charlie.CharacterDialogue.002": "%Charlie: *cluck*",
-  "Charlie.CharacterDialogue.003": "%Charlie: *bawk*#$e#%Charlie: *bawk*!",
-  "Charlie.CharacterDialogue.004": "%Charlie: *bawk*",
-  "Charlie.CharacterDialogue.005": "%Charlie: *cluck*#$e#%Charlie: *bawk*?",
-  "Charlie.CharacterDialogue.006": "%Charlie: *bawk*",
-  "Charlie.CharacterDialogue.007": "%Charlie: *bawk*#$e#%Charlie: *bawk*!",
-  "Charlie.CharacterDialogue.008": "%Charlie is watching the television.",
-  "Charlie.CharacterDialogue.009": "%Charlie is trying his best to help Marnie.",
-  "Charlie.CharacterDialogue.010": "%Charlie is up to no good.",
+  "Charlie.CharacterDialogue.001": "%Charlie: *cot-cot*#$e#%Charlie: *codêêêt* ?",
+  "Charlie.CharacterDialogue.002": "%Charlie: *cot*",
+  "Charlie.CharacterDialogue.003": "%Charlie: *cot-cot*#$e#%Charlie: *codêêêt* !",
+  "Charlie.CharacterDialogue.004": "%Charlie: *cot*",
+  "Charlie.CharacterDialogue.005": "%Charlie: *cot-cot*#$e#%Charlie: *codêêêt* ?",
+  "Charlie.CharacterDialogue.006": "%Charlie: *cot*",
+  "Charlie.CharacterDialogue.007": "%Charlie: *cot-cot*#$e#%Charlie: *codêêêt* !",
+  "Charlie.CharacterDialogue.008": "%Charlie regarde la télévision.",
+  "Charlie.CharacterDialogue.009": "%Charlie fait de son mieux pour aider Marnie.",
+  "Charlie.CharacterDialogue.010": "%Charlie fait quelque chose de mal.",
   //Hank NPC
   "Hank.CharacterDialogue.001": "%Hank: The Tunnlers are doing great this year! They just might make it to the finals!",
   "Hank.CharacterDialogue.002": "%Hank: Treyvon and I worked hard to pay off this house. It feels good knowing it's ours.",
@@ -7572,11 +7572,11 @@
   //************************
   //DUSTY NPC
   //************************
-  "Dusty.Event.01": "#Pet Dusty#Don't pet Dusty",
-  "Dusty.Event.02": "Hey. Saw you petting Dusty.$1#$e#He's a good boy.$0",
-  "Dusty.PlayerResponse.01": "*You give Dusty many pets$0",
-  "Dusty.PlayerResponse.02": "*You give Dusty many pets$1",
-  "Dusty.PlayerResponse.03": "*You give Dusty many pets$4",
+  "Dusty.Event.01": "#Caresse Dusty#Ne pas caresser Dusty",
+  "Dusty.Event.02": "Hey. Je t'ai vu caresser Dusty.$1#$e#C'est un bon chien.$0",
+  "Dusty.PlayerResponse.01": "*Tu fais plein de caresses à Dusty.$0",
+  "Dusty.PlayerResponse.02": "*Tu fais plein de caresses à Dusty.$1",
+  "Dusty.PlayerResponse.03": "*Tu fais plein de caresses à Dusty.$4",
   //************************
   //DWARF NPC
   //************************
