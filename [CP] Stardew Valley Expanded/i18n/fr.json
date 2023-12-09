@@ -5756,12 +5756,12 @@
   //Peaches NPC
   "Peaches.Meep": "*bêê*",
   //JADU NPC
-  "Jadu.CharacterDialogue.001": "You've heard of mirages? Sometimes when it gets hot enough out here, the air shimmers, and it's like you can peer into a different world.$0",
-  "Jadu.CharacterDialogue.002": "*yawn* It gets pretty monotonous out here. I'm glad you stopped by to visit.$0",
-  "Jadu.CharacterDialogue.003": "I've heard people mention you a few times, @. You're pretty well known in the Guild, huh?$1",
-  "Jadu.CharacterDialogue.004": "I'm looking forward to getting back out into the field. Sentry duty is important, but I'm in the mood to battle.$1",
-  "Jadu.CharacterDialogue.005": "Anything I can help you with, @?$0#$e#Wish I could offer you something to eat or drink while you're here, but our provisions are limited.$2",
-  "Jadu.CharacterDialogue.006": "Being an adventurer makes you appreciate some strange things. Like the smell of fresh air after you spend days in a dank, musty cave.$0",
+  "Jadu.CharacterDialogue.001": "Tu as entendu parler des mirages ? Parfois quand il fait suffisamment chaud par ici, l'air scintille, comme si on pouvait regarder dans un monde différent.$0",
+  "Jadu.CharacterDialogue.002": "*bâille* C'est souvent monotone ici. Je suis content que tu sois là.$0",
+  "Jadu.CharacterDialogue.003": "J'ai entendu des gens te mentionner quelques fois, @. Tu es plutôt connu dans la Guilde, pas vrai ?$1",
+  "Jadu.CharacterDialogue.004": "J'attends impatiemment de retourner sur le terrain. Les sentinelles sont importantes, mais je préfère me battre.$1",
+  "Jadu.CharacterDialogue.005": "Est-ce que je peux t'aider, @ ?$0#$e#J'aimerai pouvoir t'offrir quelque chose à manger ou à boire quand tu es là, mais nous sommes à cours de provisions.$2",
+  "Jadu.CharacterDialogue.006": "Être un aventurier fait apprécier certaines choses bizarres. Comme l'odeur de l'air frais après avoir passé des jours dans une grotte moisie et humide.$0",
   //HIGHLAND DWARF NPC
   //HIGHLAND DWARF EVENTS
   "Highland.FirstKey.01": "Tu n'es pas l'un des leurs...#$b#Es-tu venu m'aider?",
