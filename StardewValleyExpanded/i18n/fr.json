@@ -1,0 +1,17 @@
+{
+    "installationchecker.installation.incorrect": "Stadew Valley Expanded n'est pas installé correctement.",
+    "installationchecker.missing.mods": "Il manque des mods requis pour Stadew Valley Expanded...",
+    "installationchecker.missing.mods.cont": "Veuillez télécharger, ou vous assurer que vous avez installé correctement les éléments suivants:",
+    "installationchecker.outdated.mods": "Versions détectées de mod(s) périmés pour utilisation dans Stadew Valley Expanded...",
+    "installationchecker.outdated.mods.cont": "Veuillez mettre à jour les éléments suivants avant de jouer :",
+    "installationchecker.orphaned.mods": "Le(s) mod(s) requis suivant(s) n'ont pu être trouvés. Soit ils ne sont pas",
+    "installationchecker.orphaned.mods.cont": "installés, ou il leur manque des dépendances propres. Veuillez vérifier ci-dessous :",
+    "installationchecker.mod.info": "{{modName}} par {{author}} -",
+    "installationchecker.mod.parents": "Mods requis: {{parents}}",
+    "installationchecker.smapi.outdated": "SMAPI n'est pas à jour ! Veuillez le mettre à jour dès que possible !",
+    "installationchecker.component.missing": "\n\n\nIl semble qu'il y a un problème avec votre installation de Stadew Valley Expanded.\nS'il vous plaît, visitez: https://smapi.io/log et suivez les instructions pour uploader vos log sur le site.\nScrollez en haut de la page et lisez le texte en rouge pour identifierles erreurs.\n\n\n",
+    "installationchecker.help.message": "Si vous avez besoin d'aide, rejoignez le discord SVE (Anglais) ! https://discord.gg/TBevpV28",
+    "installationchecker.start": "Commencement de l'installation Checker...",
+    "installationchecker.credits": "(Installation Checker prodigué par shekurika et moe)",
+    "installationchecker.success": "Installation check complété. Tout va bien!"
+}
