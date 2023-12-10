@@ -6406,12 +6406,12 @@
   "Lewis.MiniEvent.01": "I was checking your shipping bin.$1#$b#Pierre and Sophia had a large number of products to ship this morning.$0",
   "Lewis.MiniEvent.02": "@, I'm very happy you're getting situated here in Stardew Valley. And you're making great progress on %farm Farm!",
   "Lewis.MiniEvent.03": "I need to walk over to Fairhaven Farm and check if Andy is shipping anything. He usually has high quality forage from Cindersap Forest.$1#$b#Must be convenient to be able to forage in your backyard.$0#$b#I'll leave you to your farm work.$1",
-  "Lewis.CropField.01": "Hello, @. I was just checking this old garden space.$0",
-  "Lewis.CropField.02": "It used to be the community garden before we relocated it near the library.$0#$b#With no one taking care of the field, it's seen better days.$2#$b#It's a shame this is the first thing travelers from Grampleton see when they visit Pelican Town...$2",
-  "Lewis.CropField.03": "I know you have your hands full with %farm Farm, but if you were to fix up this plot of land, you could use it to grow whatever you like.$1#$b#I tried offering it to Andy, but he said he didn't want a 'handout' from me.$2#$b#What do you say, @?$0",
-  "Lewis.CropField.04": "$q -1 null#Do you want this plot of land?#$r -1 0 lewis_event1#I can clean up and utilize this crop field.#$r -1 0 lewis_event2#Sorry. I'm overwhelmed with my own farm.",
-  "Lewis.CropField.05": "Well, I have a pile of paperwork.$2#$b#Have a nice day, @!$1",
-  "Lewis.CropField.06": "I know you'll make some good use out of the land, @.$0",
+  "Lewis.CropField.01": "Bonjour, @. Je regardais ce vieil emplacement de jardin.$0",
+  "Lewis.CropField.02": "C'était un jardin communautaire avant qu'on le déplace à côté de la bibliothèque.$0#$b#Puisque personne ne s'en occupe, il tombe en ruine.$2#$b#C'est vraiment dommage que ce soit la première chose que les visiteurs qui viennent de Grampleton voient quand ils arrivent à Pélican Ville...$2",
+  "Lewis.CropField.03": "Je sais que tu es déjà très occupé·e avec ta ferme, mais si tu réussissais à remettre à niveau ce bout de terre, tu pourrais y planter ce que tu veux.$1#$b#J'ai proposé de l'offrir à Andy, mais il m'a dit qu'il n'avait pas besoin de coup de main de ma part.$2#$b#Qu'en penses-tu, @?$0",
+  "Lewis.CropField.04": "$q -1 null#Tu veux ce bout de terre ?#$r -1 0 lewis_event1#Je peux nettoyer et utiliser ce bout de terre.#$r -1 0 lewis_event2#Désolé. J'ai trop de choses à faire avec ma ferme.",
+  "Lewis.CropField.05": "Bon, j'ai de la paperasse à faire.$2#$b#Passe une bonne journée, @!$1",
+  "Lewis.CropField.06": "Je sais que tu sauras bien t'en occuper, @.$0",
   //************************
   //MARNIE NPC 
   //************************
