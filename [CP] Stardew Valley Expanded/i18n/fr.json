@@ -10011,8 +10011,8 @@
   //Player Killed Events
   "Lance.PlayerKilled.01": "Ouvre tes yeux...",
   "Lance.PlayerKilled.02": "J'ai senti que tu étais en grave danger. Heureusement, je suis arrivé juste à temps.$0",
-  "Lance.PlayerKilled.03": "Stay vigilant, @. Don't overextend yourself.$3",
-  "Lance.PlayerKilled.04": "Lance saved me, and didn't ask for anything in return...",
+  "Lance.PlayerKilled.03": "Reste vigilant·e, @. Ne te dépense pas trop.$3",
+  "Lance.PlayerKilled.04": "Lance m'a sauvé et n'a rien demandé en retou...",
   "Camilla.PlayerKilled.01": "My, my. You were bested...",
   "Camilla.PlayerKilled.02": "Luckily for you, I arrived just in the nick of time.$5",
   "Camilla.PlayerKilled.03": "Be more careful out there, dear. It'd be a shame if anything bad were to happen to you...$2",
