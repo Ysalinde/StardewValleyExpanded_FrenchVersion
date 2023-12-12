@@ -1,5 +1,5 @@
-# StardewValleyExtended_FrenchVersion
-The French traduction for Stardew Valley Extended
+# StardewValleyExpanded_FrenchVersion
+The French traduction for Stardew Valley Expanded
 
 Le travail sur lequel je m'appuie est celui de Naflan, disponible sur le lien : https://www.nexusmods.com/stardewvalley/mods/12867
 Je mets à jour la structure des fichiers JSON qui ont été changés récemment dans SVE et apporte les nouvelles traductions nécessaires.
