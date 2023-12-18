@@ -2109,7 +2109,7 @@
   "winterstar.claire.1": "De quoi es-tu reconnaissant, @ ?$1#$e#Je suis reconnaissant d'avoir une communauté amicale avec qui passer la Fête de l'Étoile Hivernale...$1",
   "winterstar.claire.2": "Je suis reconnaissant pour la merveilleuse vie que nous vivons ensemble à la ferme %farm...$1",
   //CLAIRE EVENTS
-  "Claire.event-3219870.01": "Tellement... Fatiguée.$2#$b#Je... M'endors.$2",
+  "Claire.event-3219870.01": "Tellement... Fatiguée.$2#$b#Je... m'endors.$2",
   "Claire.event-3219870.02": "O-oh ! Mes excuses...$2#$b#Euh. Bienvenue au Marché Joja.$0#$b#Comment puis-je t'aider ?$1",
   "Claire.event-3219870.03": "S'il te plaît ne dis pas à mon manager que je somnolais pendant mon quart de travail...$2#$e#Je serais réprimandée...$2",
   "Claire.2hearts.01": "Bonjour. Je vais prendre la salade healthy, s'il vous plaît ?$1",
@@ -2356,7 +2356,7 @@
   //************************
   //Sophia NPC 
   //************************
-  "Sophia.CharacterDialogue.001": "Aaaah ! Un étranger !$2#$e#A-attends. Tu es @ ? Le nouveau fermier de la ferme %farm ?$0#$b#Dé-désolée. Je deviens un peu nerveuse avec les gens que je n'ai jamais rencontrés auparavant.$1#$b#Je m'appelle Sophia. Je suis la propriétaire du vignoble Blue Moon.$9#$e#Euh... Et bien, à la prochaine, je suppose.$1",
+  "Sophia.CharacterDialogue.001": "Aaaah ! Un étranger !^Aaaah ! Une étrangère !$2#$e#A-attends. Tu es @ ? Le nouveau fermier de la ferme %farm ?$0#$b#Dé-désolée. Je deviens un peu nerveuse avec les gens que je n'ai jamais rencontrés auparavant.$1#$b#Je m'appelle Sophia. Je suis la propriétaire du vignoble Blue Moon.$9#$e#Euh... Et bien, à la prochaine, je suppose.$1",
   "Sophia.CharacterDialogue.002": "Oooh. Une pierre de fée ! C'est le truc que je préfère le plus au monde. Merci !$1",
   "Sophia.CharacterDialogue.003": "Dé-Désolée. Je ne danse pas vraiment.$2",
   "Sophia.CharacterDialogue.004": "Je... je pense que je suis plus heureuse seule. Je n'ai jamais vraiment été compatible avec personne.$2#$b#Me-Merci de m'avoir aidé à réaliser cela.$6#$e#*snif*...$12#$e#S-s'il te plait, laisse moi...$7#$e#%Sophia pleure.",
@@ -2800,10 +2800,10 @@
   "Sophia.IntroEvent.01": "!!!$2",
   "Sophia.IntroEvent.02": "O-oh. @?$2#$b#C'est seulement toi ?$0",
   "Sophia.IntroEvent.03": "D-désolée. Je suis facilement effrayée.$1",
-  "Sophia.IntroEvent.04": "Hmm. Hey. Tu es un peu nouveau dans l'agriculture, donc...$2",
-  "Sophia.IntroEvent.05": "Hum. Je veux te donner un truc comme cadeau de bienvenue dans la vallée.$1#$b#Suis moi jusqu'à mon coffre !$9",
+  "Sophia.IntroEvent.04": "Hmm. Hé. Tu es un peu nouveau dans l'agriculture, donc...^Hmm. Hé. Tu es un peu nouvelle dans l'agriculture, donc...$2",
+  "Sophia.IntroEvent.05": "Hum. Je veux te donner un truc comme cadeau de bienvenue dans la vallée.$1#$b#Suis-moi jusqu'à mon coffre !$9",
   "Sophia.IntroEvent.06": "Tiens ! C'est un arroseur ![621]$1#$b#Il arrose automatiquement les récoltes qui l'entourent chaque jour.$1",
-  "Sophia.IntroEvent.07": "Vous recevez 'Arroseur de Qualité'!",
+  "Sophia.IntroEvent.07": "Vous recevez « Arroseur de Qualité » !",
   "Sophia.IntroEvent.08": "Hum. J'ai un registre des commandes dans ma salle de cosplay.$0#$b#Si tu en as besoin de plus, tu peux m'acheter des arroseurs.$1",
   "Sophia.IntroEvent.09": "Oh. Hmm. Bonjour !$1#$b#L'arroseur est installé ? Il fonctionne bien ?$0",
   "Sophia.2hearts.01": "Hé, tu sembles un peu perdue. Tout va bien, chou?$2",
